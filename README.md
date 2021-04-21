@@ -1,4 +1,4 @@
-# itw_project
+# Pinterest_Flutter home page clone.
 
 A new Flutter application.
 
